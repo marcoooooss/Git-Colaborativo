@@ -4,4 +4,4 @@
 [Espacio reservado para el Alumno B]
 
 ## ⚙️ Backend (Servidor y Base de Datos)
-Elijo python ya que permite un desarrollo ágil y eficiente gracias a su sintaxis clara y a frameworks potentes como FastAPI o Django. También pgit bosee el ecosistema más maduro para integrar fácilmente inteligencia artificial, procesamiento de datos y APIs escalables.
+Elijo python ya que permite un desarrollo ágil y eficiente gracias a su sintaxis clara y a frameworks potentes como FastAPI o Django. También posee el ecosistema más maduro para integrar fácilmente inteligencia artificial, procesamiento de datos y APIs escalables.
